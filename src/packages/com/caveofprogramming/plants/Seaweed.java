@@ -1,4 +1,4 @@
-package com.caveofprogramming.plants;
+package packages.com.caveofprogramming.plants;
 /*
  * Rule for naming the packages is
  * reverse the name of your webiste
