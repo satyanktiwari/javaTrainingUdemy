@@ -61,7 +61,7 @@ public class SortingObjectsByIDAndName {
 			System.out.println(person);
 		}
 //		Same thing can be implemented to compare names
-		System.out.println("\n");
+		System.out.println("____________\n");
 		Collections.sort(people, new Comparator<Person>() {
 
 			@Override
